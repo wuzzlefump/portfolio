@@ -1,0 +1,34 @@
+[ 
+{
+    "id":1,
+    "name":"Weather App",
+    "img":"weather",
+    "description":"An app that uses a third party api to find the weather. It also gives a 5 day forecast",
+    "link":"https://wuzzlefump.github.io/wuzzlefump.github.io-weather/",
+    "repo":""
+},
+{
+    "id":2,
+    "name":"Dance Helper",
+    "img":"dance",
+    "description":"A site to help educate people about dance, and share my biased opinions about them.",
+    "link":"https://wuzzlefump.github.io/DanceHelper/",
+    "repo":""
+},
+{
+    "id":3,
+    "name":"QuikCode Pro",
+    "img":"code",
+    "description":"An App that saves and stores code snippets using Mongo. It makes API calls and even has funny jokes on the bottom.",
+    "link":"https://https://quikcodepro.herokuapp.com/",
+    "repo":""
+},
+{
+    "id":4,
+    "name":"Rock Paper Sissors Lizard Spock",
+    "img":"game",
+    "description":"Like Playing 'Rock Paper Scissors'? Now You Can Play 'Rock Paper Scissors Lizard Spock'",
+    "link":"https://wuzzlefump.github.io/wuzzlefump.github.io-rock-paper-scissors-lizard-spock/",
+    "repo":""
+}
+]

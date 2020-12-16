@@ -1,0 +1,28 @@
+.pic{
+    background-image:url("matrix.png") ;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+#paul{
+    width:20%;
+    border-radius:50%;
+}
+#rowOne{
+    margin-top: 1%;
+}
+#rowTwo{
+    margin-top: 4%;
+}
+.content{
+    background-color: darkgray;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.font{
+    font-family: lucida console;
+    font-weight: 100;
+    color:green
+}
