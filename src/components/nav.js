@@ -7,14 +7,14 @@ import {  faMale } from '@fortawesome/free-solid-svg-icons'
  function TheNav(props) {
            return(<Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
              <FontAwesomeIcon style={{color:"lightGreen", marginRight:"1%"}} icon={faMale} size="2x" /> 
-    <Navbar.Brand href="/" > Paul-Portfolio</Navbar.Brand>
+    <Navbar.Brand href="/portfolio/" > Paul-Portfolio</Navbar.Brand>
     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
     <Navbar.Collapse className="justify-content-end" id="responsive-navbar-nav">
 
       <Nav>
-        <Nav.Link className="mr-auto "  href="/portfolio"  >Projects</Nav.Link>
+        <Nav.Link className="mr-auto "  href="/portfolio/portfolio"  >Projects</Nav.Link>
 
-        <Nav.Link eventKey={2} href="/contact"   >
+        <Nav.Link eventKey={2} href="/portfolio/contact"   >
         Contact
         </Nav.Link>
       </Nav>

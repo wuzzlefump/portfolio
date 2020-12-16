@@ -15,9 +15,9 @@ function App() {
   <div>
     <TheNav/>
       <Switch>
-        <Route exact path= "/MyReact" component={Profile}/>
-        <Route exact path= "/portfolio" component={Portfolio}/>
-        <Route exact path="/contact" component={Contact} />
+        <Route exact path= "/portfolio/" component={Profile}/>
+        <Route exact path= "/portfolio/portfolio" component={Portfolio}/>
+        <Route exact path="/portfolio/contact" component={Contact} />
         <Route component ={Profile} />
       </Switch>
     <Footer/>
