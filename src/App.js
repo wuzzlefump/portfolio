@@ -16,8 +16,8 @@ function App() {
     <TheNav/>
       <Switch>
         <Route exact path= "/MyReact" component={Profile}/>
-        <Route exact path= "/MyReact/portfolio" component={Portfolio}/>
-        <Route exact path="/MyReact/contact" component={Contact} />
+        <Route exact path= "/portfolio" component={Portfolio}/>
+        <Route exact path="/contact" component={Contact} />
         <Route component ={Profile} />
       </Switch>
     <Footer/>
