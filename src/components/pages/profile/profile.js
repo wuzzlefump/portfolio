@@ -1,10 +1,9 @@
-import React, {Component} from 'react';
+import React from 'react';
 import Card from 'react-bootstrap/Card'
 import Container from "react-bootstrap/Container"
 import Row from "react-bootstrap/Row"
 import Col from "react-bootstrap/Col"
 import Button from 'react-bootstrap/Button'
-import Footer from '../../footer'
 import Jumbotron from 'react-bootstrap/Jumbotron'
 import './profile.css'
 import Accordion from 'react-bootstrap/Accordion'
@@ -18,7 +17,7 @@ function Profile (){
           <Row id="rowOne">
             {/* picture and background image */}
             <Col className="pic">
-            <img id="paul" src={Paul}></img>
+            <img alt="Paul" id="paul" src={Paul}></img>
             </Col>
           </Row>
           <Row id="rowTwo">

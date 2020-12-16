@@ -24,7 +24,7 @@ iconList.forEach(item=>{
 
 useEffect(()=>{
 avatarSet()
-},[])
+})
         return (<Card style={{ width: '30rem', borderRadius:'10px', marginTop:'1%', marginBottom: '1%', backgroundColor: 'darkgrey', display:"flex", alignItems:"center",flexDirection:"column", justifyContent:"center" }}>
         <FontAwesomeIcon style={{color:"lightGreen", marginTop:"4%", marginBottom:"4%"}} icon={avatarState} size="8x" />
         <Card.Body style = {{borderTop: "2px solid black"}}>
