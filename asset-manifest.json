@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.07cd3552.chunk.css",
-    "main.js": "/portfolio/static/js/main.998e8da8.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.998e8da8.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.e1f63206.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.e1f63206.js.map",
-    "static/js/2.dfa77f62.chunk.js": "/portfolio/static/js/2.dfa77f62.chunk.js",
-    "static/js/2.dfa77f62.chunk.js.map": "/portfolio/static/js/2.dfa77f62.chunk.js.map",
-    "static/js/3.7e97aec7.chunk.js": "/portfolio/static/js/3.7e97aec7.chunk.js",
-    "static/js/3.7e97aec7.chunk.js.map": "/portfolio/static/js/3.7e97aec7.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "static/css/main.07cd3552.chunk.css.map": "/portfolio/static/css/main.07cd3552.chunk.css.map",
-    "static/js/2.dfa77f62.chunk.js.LICENSE.txt": "/portfolio/static/js/2.dfa77f62.chunk.js.LICENSE.txt",
-    "static/media/Paul.3879f7c0.jpg": "/portfolio/static/media/Paul.3879f7c0.jpg",
-    "static/media/profile.css": "/portfolio/static/media/matrix.f785b4a7.png"
+    "main.css": "/portfolio.git/static/css/main.e9b294da.chunk.css",
+    "main.js": "/portfolio.git/static/js/main.998e8da8.chunk.js",
+    "main.js.map": "/portfolio.git/static/js/main.998e8da8.chunk.js.map",
+    "runtime-main.js": "/portfolio.git/static/js/runtime-main.db294fbe.js",
+    "runtime-main.js.map": "/portfolio.git/static/js/runtime-main.db294fbe.js.map",
+    "static/js/2.dfa77f62.chunk.js": "/portfolio.git/static/js/2.dfa77f62.chunk.js",
+    "static/js/2.dfa77f62.chunk.js.map": "/portfolio.git/static/js/2.dfa77f62.chunk.js.map",
+    "static/js/3.7e97aec7.chunk.js": "/portfolio.git/static/js/3.7e97aec7.chunk.js",
+    "static/js/3.7e97aec7.chunk.js.map": "/portfolio.git/static/js/3.7e97aec7.chunk.js.map",
+    "index.html": "/portfolio.git/index.html",
+    "static/css/main.e9b294da.chunk.css.map": "/portfolio.git/static/css/main.e9b294da.chunk.css.map",
+    "static/js/2.dfa77f62.chunk.js.LICENSE.txt": "/portfolio.git/static/js/2.dfa77f62.chunk.js.LICENSE.txt",
+    "static/media/Paul.3879f7c0.jpg": "/portfolio.git/static/media/Paul.3879f7c0.jpg",
+    "static/media/profile.css": "/portfolio.git/static/media/matrix.f785b4a7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e1f63206.js",
+    "static/js/runtime-main.db294fbe.js",
     "static/js/2.dfa77f62.chunk.js",
-    "static/css/main.07cd3552.chunk.css",
+    "static/css/main.e9b294da.chunk.css",
     "static/js/main.998e8da8.chunk.js"
   ]
 }
