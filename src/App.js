@@ -18,7 +18,7 @@ function App() {
         <Route exact path= "/MyReact" component={Profile}/>
         <Route exact path= "/MyReact/portfolio" component={Portfolio}/>
         <Route exact path="/MyReact/contact" component={Contact} />
-        <Route/>
+        <Route component ={Profile} />
       </Switch>
     <Footer/>
   </div>

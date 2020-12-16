@@ -2,15 +2,16 @@ import React, {useState, useEffect} from 'react';
 import Card from 'react-bootstrap/Card'
 import Button from 'react-bootstrap/Button'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCode } from '@fortawesome/free-solid-svg-icons'
+import {  faCode } from '@fortawesome/free-solid-svg-icons'
 import { faUmbrella } from '@fortawesome/free-solid-svg-icons'
 import { faHandshake } from '@fortawesome/free-solid-svg-icons'
-
+import { faUsers } from '@fortawesome/free-solid-svg-icons'
+import { faArchive } from '@fortawesome/free-solid-svg-icons'
 import { faMusic } from '@fortawesome/free-solid-svg-icons'
 
 
 function Project(props) {
-const iconList =[{name:"code", icon:faCode},{name:"weather", icon:faUmbrella},{name:"game", icon:faHandshake},{name:"dance", icon:faMusic}]
+const iconList =[{name:"code", icon:faCode},{name:"weather", icon:faUmbrella},{name:"game", icon:faHandshake},{name:"dance", icon:faMusic},{name:"user",icon:faUsers},{name:"oldCode", icon:faArchive}]
 const [avatarState,setAvatarState] = useState()
 
 const avatarSet = () =>{

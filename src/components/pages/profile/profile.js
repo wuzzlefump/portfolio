@@ -23,17 +23,26 @@ function Profile (){
           </Row>
           <Row id="rowTwo">
             {/* bio */}
-            <Col> 
+            <Col sm={12} md={6} > 
             <h3 className="font">Bio:</h3>
-              <Jumbotron className="content">
-                <p className="fontTwo"></p>
+              <Jumbotron className="content" >
+                <h4>Once Upon A Time....</h4>
+                <Card style={{width:"100%", marginTop:"6%",paddingBottom:"3%"}}>
+                  <Card.Body>
+                    <p><span style={{color:"green", fontWeight:"bold"}}>You</span> stumbled upon the site of a developer named Paul Elliott. Paul's first site was for a webcomic he made in highschool. He then took a 6 year hiatus from coding. During this time he tried many things like: being a paper salesman, being a pedi-cab, and being a personal trainer.</p>
+                    <br></br>
+                    <p><span style={{color:"green", fontWeight:"bold"}}>During</span>  2020, Paul the dance instructor, began coding again. He Started a coding bootcamp at DU. during the 6 months at the bootcamp Paul fell in love with the creating websites again. He created sites ranging from ones that could help him at work, to ones that play games.</p>
+                    <br></br>
+                    <p><span style={{color:"green", fontWeight:"bold"}}>If</span>  you are looking for a deloper that loves learning, being creative, and making new things, then you've stumbled into the right place. </p>
+                  </Card.Body>
+                </Card>
               </Jumbotron>
             </Col >
           {/* technologies */}
-            <Col>
+            <Col sm={12} md={6}>
             <h3 className="font">Technologies:</h3>
                 <Jumbotron className="content">
-                <p className="fontTwo">Over the course of Paul's coding career, he has become familiar with these resources: </p>
+                <p className="fontTwo" style={{fontWeight:"bold"}}>Over the course of Paul's coding career, he has become familiar with these resources: </p>
                 <Accordion style={{width:"100%"}} defaultActiveKey="0">
                   <Card>
                     <Card.Header>
@@ -105,8 +114,8 @@ function Profile (){
                           <li>Bootstrap</li>
                           <li>Bulma</li>
                           <li>Materialize</li>
-                          <li>react-Bootstrap</li>
-                          <li>reactstrap</li>
+                          <li>React-Bootstrap</li>
+                          <li>Reactstrap</li>
                         </ul>
                         </Card.Body>
                     </Accordion.Collapse>
@@ -115,7 +124,7 @@ function Profile (){
                   <Card>
                     <Card.Header>
                       <Accordion.Toggle className="font" as={Button} variant="link" eventKey="4">
-                        Notable Packages
+                          Misc.
                       </Accordion.Toggle>
                     </Card.Header>
                     <Accordion.Collapse eventKey="4">
@@ -126,6 +135,7 @@ function Profile (){
                           <li>Sequelize</li>
                           <li>Ace</li>
                           <li>Passport</li>
+                          <li>Anime js</li>
                         </ul>
                         </Card.Body>
                     </Accordion.Collapse>

@@ -5,7 +5,7 @@
     "img":"weather",
     "description":"An app that uses a third party api to find the weather. It also gives a 5 day forecast",
     "link":"https://wuzzlefump.github.io/wuzzlefump.github.io-weather/",
-    "repo":""
+    "repo":"https://github.com/wuzzlefump/wuzzlefump.github.io-weather"
 },
 {
     "id":2,
@@ -13,15 +13,15 @@
     "img":"dance",
     "description":"A site to help educate people about dance, and share my biased opinions about them.",
     "link":"https://wuzzlefump.github.io/DanceHelper/",
-    "repo":""
+    "repo":"https://github.com/wuzzlefump/DanceHelper"
 },
 {
     "id":3,
     "name":"QuikCode Pro",
     "img":"code",
-    "description":"An App that saves and stores code snippets using Mongo. It makes API calls and even has funny jokes on the bottom.",
-    "link":"https://https://quikcodepro.herokuapp.com/",
-    "repo":""
+    "description":"A React App that saves and stores code snippets using Mongo. It makes API calls and even has funny jokes on the bottom.",
+    "link":"https://quikcodepro.herokuapp.com/",
+    "repo":"https://github.com/wuzzlefump/QuikCodePro"
 },
 {
     "id":4,
@@ -29,6 +29,22 @@
     "img":"game",
     "description":"Like Playing 'Rock Paper Scissors'? Now You Can Play 'Rock Paper Scissors Lizard Spock'",
     "link":"https://wuzzlefump.github.io/wuzzlefump.github.io-rock-paper-scissors-lizard-spock/",
-    "repo":""
+    "repo":"https://github.com/wuzzlefump/wuzzlefump.github.io-rock-paper-scissors-lizard-spock"
+},
+{
+    "id":5,
+    "name":"QuikCode",
+    "img":"oldCode",
+    "description":"The original version of Quik Code Pro. It was made with MySQL and JQuery",
+    "link":"https://group-1-repo.herokuapp.com/",
+    "repo":"https://github.com/wuzzlefump/group-1-repo"
+},
+{
+    "id":6,
+    "name":"React Employee",
+    "img":"user",
+    "description":"An example of an employee directory using React. It allows you to search and filter employees how you wish.",
+    "link":" https://wuzzlefump.github.io/ReactEmployee/",
+    "repo":"https://github.com/wuzzlefump/ReactEmployee"
 }
 ]
