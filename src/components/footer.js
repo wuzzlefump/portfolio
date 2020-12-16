@@ -7,7 +7,7 @@ function Footer(){
         <a style={{color:"lime"}} href="https://www.linkedin.com/in/paulelliottwork
 ">Linked in Page</a>
         <a style={{color:"lime"}} href="https://github.com/wuzzlefump">Github page</a>
-        <a style={{color:"lime"}} href="https://github.com/wuzzlefump/MyReact">This site's repo</a>
+        <a style={{color:"lime"}} href="https://github.com/wuzzlefump/portfolio">This site's repo</a>
         <a style={{color:"lime"}} href="https://www.codewars.com/users/wuzzlefump"> Codewars Page</a>
         <a style={{color:"lime"}} href="https://docs.google.com/document/d/1dZ9WkE417211-XtYJWxiAKc_k-SHpgZMAo5Q-SFLKMQ/edit?usp=sharing">Paul's Resume</a>
     </div>)
